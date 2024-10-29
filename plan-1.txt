@@ -1,2 +1,0 @@
-plan 1
-plan 2-test2
